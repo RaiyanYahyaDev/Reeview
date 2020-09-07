@@ -1,0 +1,1 @@
+A project to get sentiments for particular words by scrapping the internet and using nlp to get sentiment results.
